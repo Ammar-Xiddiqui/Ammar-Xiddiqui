@@ -1,13 +1,11 @@
-- 👋 Hi, I’m Muhammad Ammar Siddiqui.
-- 👀 I’m interested in :
-- ➡️ Data Science/Computer Science
-- ➡️ E-Commerce
-- ➡️ Comminacation Skills 
-- 🌱 I’m currently learning Data Science from Punjab University,Lahore Pakistan.  
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi there, I'm Ammar Siddique!
+I am currently a Data Science student in my 5th semester at PUCIT, Lahore, Pakistan. My academic journey has fueled my passion for various fields within data science, and I am eager to dive deeper into the world of technology.
 
-<!---
-Ammar-Xiddiqui/Ammar-Xiddiqui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Interests
+Artificial Intelligence (AI)
+Data Analytics
+Data Warehousing
+Web Programming (specifically using React)
+📧 Contact Me
+Email: ammarsiddiqui377@gmail.com
+LinkedIn: Mohammad Ammar Siddique
