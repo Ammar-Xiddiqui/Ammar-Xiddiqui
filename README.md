@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Ammar Siddique 👋
 
-### AI Engineer | Data Scientist | Backend Developer
+### AI Engineer | Backend Developer
 
 Fresh Data Science graduate passionate about building practical AI systems, intelligent document processing solutions, and scalable backend architectures.
 
